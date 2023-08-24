@@ -5,7 +5,7 @@ basicsr
 fonts
 font-roboto
 gfpgan
-gradio==3.28.1
+gradio==3.32.0
 numpy
 omegaconf
 opencv-contrib-python
@@ -32,3 +32,4 @@ safetensors
 psutil
 rich
 xformers
+tomesd==0.1.2
